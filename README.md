@@ -1,7 +1,7 @@
 <img width="2000" height="600" alt="Antonio Esteban Lorenzo (1)" src="https://github.com/user-attachments/assets/781aabe9-51e4-4438-9078-13885cb58c8c" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Antonio+Esteban+Lorenzo;Desarrollador+Android;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f7931e&center=true&vCenter=true&width=435&lines=Antonio+Esteban+Lorenzo;Desarrollador+Android;" alt="Typing SVG" />
 </div>
 
 ---
