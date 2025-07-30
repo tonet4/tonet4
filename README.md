@@ -58,12 +58,6 @@
   <img src="https://komarev.com/ghpvc/?username=tonet4&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 </div>
 
-<div align="center">
-  
-### 💭 *"El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano del software aprendiendo una lista de heurísticas. El profesionalismo y la artesanía vienen de los valores que impulsan la disciplina."*
-*- Robert C. Martin*
-
-</div>
 <!--
 **tonet4/tonet4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
